@@ -5,17 +5,17 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "ProofOfCoinSenderUserRole": {
-        "@id": "https://raw.githubusercontent.com/valeriiman/CoinSender0xpolygon/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.json-ld#ProofOfCoinSenderUserRole",
+      "ProofOfCoinsenderUserRole": {
+        "@id": "https://raw.githubusercontent.com/valeriiman/CoinSender0xpolygon/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.json-ld#ProofOfCoinsenderUserRole",
         "@context": {
-          "@version": 1.1,
+          "@version": 1.2,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://github.com/valeriiman/CoinSender0xpolygon/blob/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role-vocab.md#",
+          "coinsender-vocab": "https://github.com/valeriiman/CoinSender0xpolygon/blob/main/credentials/coinsender.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "role": {
-            "@id": "vocab:role",
+            "@id": "coinsender-vocab:role",
             "@type": "xsd:integer"
           }
         }
