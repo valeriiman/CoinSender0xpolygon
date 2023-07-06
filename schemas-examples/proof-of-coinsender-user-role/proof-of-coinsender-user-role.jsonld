@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "ProofOfCoinSenderUserRole": {
-        "@id": "https://raw.github.com/valeriiman/CoinSender0xpolygon/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.jsonld#ProofOfCoinSenderUserRole",
+        "@id": "https://raw.githubusercontent.com/valeriiman/CoinSender0xpolygon/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.jsonld#ProofOfCoinSenderUserRole",
         "@context": {
           "@version": 1.1,
           "@protected": true,

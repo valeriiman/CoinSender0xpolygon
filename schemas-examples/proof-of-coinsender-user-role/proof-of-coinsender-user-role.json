@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.github.com/valeriiman/CoinSender0xpolygon/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.jsonld",
-      "jsonSchema": "https://raw.github.com/valeriiman/CoinSender0xpolygon/blob/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/valeriiman/CoinSender0xpolygon/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.jsonld",
+      "jsonSchema": "https://raw.githubusercontent.com/valeriiman/CoinSender0xpolygon/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role.json"
     }
   },
   "required": [
