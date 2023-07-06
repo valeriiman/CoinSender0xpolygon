@@ -12,7 +12,7 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "coinsender-vocab": "https://github.com/valeriiman/CoinSender0xpolygon/blob/main/credentials/coinsender.md#",
+          "coinsender-vocab": "https://github.com/valeriiman/CoinSender0xpolygon/blob/main/schemas-examples/proof-of-coinsender-user-role/proof-of-coinsender-user-role-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "role": {
             "@id": "coinsender-vocab:role",
